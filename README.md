@@ -11,4 +11,3 @@ git在平时工作学习中都会用到，但是平时经常用到的只是非�
 1. 基于远程的master分支创建新的分支：`git checkout -b <newBranchName> origin/master`
 2. 
 
-
