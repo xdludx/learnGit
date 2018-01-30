@@ -27,3 +27,6 @@ git在平时工作学习中都会用到，但是平时经常用到的只是非�
 
 1. 储藏当前工作：`git stash`
 2. 查看stash：`git stash list`, `git stash show -p stash@{0}`
+3. 应用指定stash：`git stash apply stash@{0}`
+4. 应用最近的stash并删除：`git stash pop`
+5. 删除指定stash：`git stash drop stash@{0}`
